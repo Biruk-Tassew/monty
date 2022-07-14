@@ -36,8 +36,8 @@ Monty byte code files can contain blank lines (empty or made of spaces only, and
         push 5    $
           push    6        $
     $
-pall This is the end of our program. Monty is awesome!$
-julien@ubuntu:~/monty$
+    pall This is the end of our program. Monty is awesome!$
+    julien@ubuntu:~/monty$
 
 The monty program
 
